@@ -31,3 +31,9 @@ In order to determine whether a patient has heart disease, I've employed a range
 * **Sklearn** for pre-processing and Model Building
 * Pandas, Numpy for csv reading, Data Processing, Data Cleaning, Visualization etc.
 * Machine Learning algorithms used: Logistic Regression (Scikit-learn)
+
+## Deployed app
+[![Screenshot (10)](https://user-images.githubusercontent.com/97881558/171418344-52e4b748-069c-4731-a37f-7788a3db02db.png)
+](https://ml-hdp.herokuapp.com/)
+
+[LINK TO HEROKU APP](https://ml-hdp.herokuapp.com/)
