@@ -1,0 +1,52 @@
+.ig {
+    background-image:url("heart.jpg");
+    height: 100%;
+
+    background-size:cover;
+}
+
+.div1{
+    width: 50%;
+    float:left;
+    text-align:center;
+}
+
+.div2{
+    width: 50%;
+    float: right;
+    text-align:center;
+    font-size="5";
+    color="brown";
+}
+
+.first{
+     text-align:center;
+     color:white;
+}
+
+
+.box {
+    background-image:url("111.jpeg")
+
+
+}
+
+.pr{
+    text-align:center;
+    float:center;
+    margin:auto;
+
+    height:-30%;
+}
+
+.ff{
+    border: 15px;
+    text-align:center;
+    float:center;
+    position:absolute;
+    color:white;
+    bottom:0;
+    left:0;
+    right:0;
+    margin:auto;
+}

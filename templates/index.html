@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>HEART DISEASE PREDICTION</title>
+    <link rel="stylesheet" href="static/css/style.css">
+</head>
+
+<body class="ig" >
+
+    <h1 class="first">HEART DISEASE PREDICTION </h1>
+
+    {% if result %}
+        <font size="10">
+        <p class="ff"><b>{{ result }}</b></p>
+        </font>
+    {% endif %}
+
+    <form method="post" action="/predict">
+
+        <div class="div1"><b>
+            <font size="4.5" color="white">
+            <lable>AGE</lable><br>
+            <input type="int" name="age"><br><br>
+
+            <lable>SEX</lable><br>
+            <input type="int" name="sex"><br><br>
+
+            <lable>CP</lable><br>
+            <input type="int" name="cp"><br><br>
+
+            <lable>TREST_BPS</lable><br>
+            <input type="int" name="trestbps"><br><br>
+
+            <lable>CHOL</lable><br>
+            <input type="int" name="chol"><br><br>
+
+            <lable>FBS</lable><br>
+            <input type="int" name="fbs"><br><br>
+            </font>
+        </b></div>
+
+
+        <div class="div1"><b>
+            <font size="4.5" color="white">
+            <lable>REST_ECG</lable><br>
+            <input type="int" name="restecg"><br><br>
+
+            <lable>THALACH</lable><br>
+            <input type="int" name="thalach"><br><br>
+
+            <lable>EXANG</lable><br>
+            <input type="int" name="exang"><br><br>
+
+            <lable>OLD_PEAK</lable><br>
+            <input type="float" name="oldpeak"><br><br>
+
+            <lable>SLOPE</lable><br>
+            <input type="int" name="slope"><br><br>
+
+            <lable>CA</lable><br>
+            <input type="int" name="ca"><br><br>
+
+            <lable>THAL</lable><br>
+            <input type="int" name="thal"><br><br>
+            </font>
+        </b></div>
+
+        <h3 class="first"> <input type="submit" value="predict"><br><br> </h3>
+
+    </form>
+
+
+</html>
