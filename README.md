@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/aravind9722">
+  <a href="https://github.com/Sanjay9783">
     <img src="https://static.vecteezy.com/system/resources/thumbnails/005/385/049/small/human-heart-anatomically-hand-drawn-line-art-vintage-flash-tattoo-or-print-design-illustration-vector.jpg" alt="Logo" width="200" height="200"/> 
   </a>
   
@@ -18,7 +18,7 @@
     <br />
     <a href="https://github.com/Sanjay9783/Heart_Disease_Prediction/blob/main/app.py">View Flask app code</a>
     ·
-    <a href="https://github.com/aravind9722/Heart_Disease_Prediction/blob/main/heart_disease_prediction.ipynb"> Model Building</a>
+    <a href="https://github.com/Sanjay9783/Heart_Disease_Prediction/blob/main/heart_disease_prediction.ipynb"> Model Building</a>
   </p>
 </div>
 
