@@ -53,4 +53,17 @@ In order to determine whether a patient has heart disease, I've employed a range
 ## Contact
 [![SANJAY A V | LinkedIn](https://img.shields.io/badge/Aravind_Selvam-eeeeee?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0A66C2)][reach_linkedin]
 [![SANJAY A V | G Mail](https://img.shields.io/badge/aravind9722-eeeeee?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=EA4335)][reach_gmail]
-[![GodWin1100 | GitHub](https://img.shields.io/badge/aravind-eeeeee?style=for-the-badge&logo=microsoft-outlook&logoColor=ffffff&labelColor=blue)][reach_outlook]
+
+
+<!-- Tools Used -->
+[PyCharm]: https://code.visualstudio.com/
+[github]: https://github.com/
+[heroku]: https://www.heroku.com/
+[microsoft_azure]: https://azure.microsoft.com/en-in/features/azure-portal/
+[python]: https://www.python.org/
+[flask]: https://flask.palletsprojects.com/en/2.1.x/
+[sklearn]: https://scikit-learn.org/stable/
+
+<!--contact-->
+[reach_linkedin]: https://www.linkedin.com/in/sanjay-a-v-890461227/
+[reach_gmail]: mailto:sanjayav8397@gmail.com?subject=Github
