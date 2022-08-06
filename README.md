@@ -33,8 +33,7 @@ In order to determine whether a patient has heart disease, I've employed a range
 * Machine Learning algorithms used: Logistic Regression (Scikit-learn)
 
 ## Deployed app
-[![Screenshot (10)](![hdp](https://user-images.githubusercontent.com/109721928/183250526-b95e30a9-b851-4a73-aaf6-16a646f541ed.png)
-)
+[![Screenshot (10)](https://user-images.githubusercontent.com/109721928/183250526-b95e30a9-b851-4a73-aaf6-16a646f541ed.png)
 ](https://ml-hdp.herokuapp.com/)
 
 [LINK TO HEROKU APP](https://ml-hdp.herokuapp.com/)
