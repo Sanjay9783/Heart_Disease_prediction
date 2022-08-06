@@ -13,12 +13,12 @@
   <p align="center">
     Machine Learning Project
     <br />
-    <a href="https://github.com/Sanjay9783/Heart_Disease_Prediction"><strong>Explore the Repo »</strong></a>
+    <a href="https://github.com/Sanjay9783/Heart_Disease_prediction"><strong>Explore the Repo »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Sanjay9783/Heart_Disease_Prediction/blob/main/app.py">View Flask app code</a>
+    <a href="https://github.com/Sanjay9783/Heart_Disease_prediction/blob/main/app.py">View Flask app code</a>
     ·
-    <a href="https://github.com/Sanjay9783/Heart_Disease_Prediction/blob/main/heart_disease_prediction.ipynb"> Model Building</a>
+    <a href="https://github.com/Sanjay9783/Heart_Disease_prediction/blob/main/Heart_Disease_Prediction.ipynb"> Model Building</a>
   </p>
 </div>
 
