@@ -50,10 +50,6 @@ In order to determine whether a patient has heart disease, I've employed a range
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-## Contact
-[![SANJAY A V | LinkedIn](https://img.shields.io/badge/Aravind_Selvam-eeeeee?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0A66C2)][reach_linkedin]
-[![SANJAY A V | G Mail](https://img.shields.io/badge/aravind9722-eeeeee?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=EA4335)][reach_gmail]
-
 
 <!-- Tools Used -->
 [PyCharm]: https://code.visualstudio.com/
@@ -63,7 +59,3 @@ In order to determine whether a patient has heart disease, I've employed a range
 [python]: https://www.python.org/
 [flask]: https://flask.palletsprojects.com/en/2.1.x/
 [sklearn]: https://scikit-learn.org/stable/
-
-<!--contact-->
-[reach_linkedin]: https://www.linkedin.com/in/sanjay-a-v-890461227/
-[reach_gmail]: mailto:sanjayav8397@gmail.com?subject=Github
