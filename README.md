@@ -38,6 +38,14 @@ In order to determine whether a patient has heart disease, I've employed a range
 
 [LINK TO HEROKU APP](https://ml-hdp.herokuapp.com/)
 
+## Steps
+
+* Installing Python, PyCharm to Computer.
+* Creating Flask app by importing `Flask` module.
+* Download the source dataset from [UCI Repository](https://archive.ics.uci.edu/ml/datasets/heart+disease).
+* For Classification algorithm decided to predict the features `Classes` from the dataset which is Binary classification `(fire, not fire)`.
+* For Regression Problem algorithm decided to predict the feature `FWI` (Fire weather Index) which is 90%+ correlated to Classes Feature.
+
 ### **Technologies used**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
