@@ -39,13 +39,6 @@
 
 [LINK TO HEROKU APP](https://ml-hdp.herokuapp.com/)
 
-## Steps
-* Installing Python, PyCharm to Computer.
-* Creating Flask app by importing `Flask` module.
-* Download the source dataset from [UCI Repository](https://archive.ics.uci.edu/ml/datasets/heart+disease).
-* For Classification algorithm decided to predict the features `Classes` from the dataset which is Binary classification `(0 = Healthy Heart, 1 = Defective Heart)`.
-* Prediction model LogisticRegression which is 80%+ correlated to Classes Feature.
-
 ### Model Building 
 * Classification algorithm decided to predict the features `Classes` from the dataset which is Binary classification `(0 = Healthy Heart, 1 = Defective Heart)`.
 * Models used : **Logistic Regression.**
@@ -73,7 +66,6 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
 
 <!-- Tools Used -->
 [PyCharm]: https://code.visualstudio.com/
