@@ -47,6 +47,10 @@
 * For Classification algorithm decided to predict the features `Classes` from the dataset which is Binary classification `(0 = Healthy Heart, 1 = Defective Heart)`.
 * Prediction model LogisticRegression which is 80%+ correlated to Classes Feature.
 
+### Model Building 
+* Classification algorithm decided to predict the features `Classes` from the dataset which is Binary classification `(0 = Healthy Heart, 1 = Defective Heart)`.
+* Models used : **Logistic Regression.**
+
 ### **Technologies used**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
