@@ -40,7 +40,6 @@
 [LINK TO HEROKU APP](https://ml-hdp.herokuapp.com/)
 
 ## Steps
-
 * Installing Python, PyCharm to Computer.
 * Creating Flask app by importing `Flask` module.
 * Download the source dataset from [UCI Repository](https://archive.ics.uci.edu/ml/datasets/heart+disease).
@@ -50,6 +49,18 @@
 ### Model Building 
 * Classification algorithm decided to predict the features `Classes` from the dataset which is Binary classification `(0 = Healthy Heart, 1 = Defective Heart)`.
 * Models used : **Logistic Regression.**
+
+### Flask App
+* Importing the Flask module and creating a Flask web server from the Flask module.
+* Create an object **app** in flask class with `__name__` which represents current app.py file.
+* Create `/` route to render default page html.
+* Create a route `/predict` to get user input for Classification. 
+* Run the flask app with `app.run()` code.
+
+### Heroku Deployment
+* Create new repo in Github and push all the data using `Git`.
+* Login to Heroku using `heroku login` and setup the app in Heroku Web.
+* Connect new Github repo in heroku and deploy the app 
 
 ### **Technologies used**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
