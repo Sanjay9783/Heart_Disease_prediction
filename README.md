@@ -32,6 +32,7 @@ In order to determine whether a patient has heart disease, I've employed a range
 * **Sklearn** for pre-processing and Model Building
 * Pandas, Numpy for csv reading, Data Processing, Data Cleaning, Visualization etc.
 * Machine Learning algorithms used: Logistic Regression (Scikit-learn)
+</p>
 
 ## Deployed app
 [![Screenshot (10)](https://user-images.githubusercontent.com/109721928/183250526-b95e30a9-b851-4a73-aaf6-16a646f541ed.png)
