@@ -24,6 +24,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<p align="justify">
 Heart disease prevention has become more important than ever. In order to ensure that more people may live healthy lives, effective data-driven methods for predicting cardiac problems can enhance the overall research and preventive process. Machine learning is useful in this situation. The heart illnesses are predicted with the use of machine learning, and the forecasts are rather accurate.
 
 In order to determine whether a patient has heart disease, I've employed a range of Machine Learning algorithms that were developed in Python. This classification issue predicts whether or not cardiac disease is present by using a binary variable as the goal variable and a range of characteristics as the input features.
